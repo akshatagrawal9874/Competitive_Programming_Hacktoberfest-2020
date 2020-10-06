@@ -6,7 +6,8 @@ This repository is made for helping new learners those who want to contribute to
 Make sure to do following steps for approval:
 - to comment the problem you are solving,
 - give it's solution,
-- comment down your name like author: your_github_id
+- comment down your name like author: your_github_id,
+- Update CONTRIBUTORS.md with your name and project done
 
 LEARN!! LEARN!! LEARN!!
 
