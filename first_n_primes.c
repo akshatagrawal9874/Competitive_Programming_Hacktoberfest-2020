@@ -4,7 +4,7 @@
 void main()
 {
     int number,i,j;
-    clrscr();
+    clrscr(); 
     printf("Enter the number\n");
     scanf("%d",&number);
 
@@ -34,5 +34,6 @@ void main()
         if (primes[i]!=0)
             printf("%d\n",primes[i]);
     }
+    printf("working!");
   getch();
 }
